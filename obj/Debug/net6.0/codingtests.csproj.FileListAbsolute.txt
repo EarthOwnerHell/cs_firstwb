@@ -1,0 +1,15 @@
+/Users/aleksandrnikolaev/Documents/codingtests/bin/Debug/net6.0/codingtests
+/Users/aleksandrnikolaev/Documents/codingtests/bin/Debug/net6.0/codingtests.deps.json
+/Users/aleksandrnikolaev/Documents/codingtests/bin/Debug/net6.0/codingtests.runtimeconfig.json
+/Users/aleksandrnikolaev/Documents/codingtests/bin/Debug/net6.0/codingtests.dll
+/Users/aleksandrnikolaev/Documents/codingtests/bin/Debug/net6.0/codingtests.pdb
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.csproj.AssemblyReference.cache
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.AssemblyInfoInputs.cache
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.AssemblyInfo.cs
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.csproj.CoreCompileInputs.cache
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.dll
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/refint/codingtests.dll
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.pdb
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/codingtests.genruntimeconfig.cache
+/Users/aleksandrnikolaev/Documents/codingtests/obj/Debug/net6.0/ref/codingtests.dll
